@@ -1,4 +1,4 @@
 <b> BORDERVIS </b> <br>
 This was a first stab at visualising economic, demographic, and crime data at the county/municipio level in the United States / Mexico border region. Data was acquired from the U.S. Census Bureau and the FBI on the U.S. side and INEGI, CONEVAL, INAFED, and the SESNP, which are various departments of Mexico's federal government. Some of the INEGI data was downloaded using Eduardo Flores' inegiR package. A lot of the insight needed to work through data on Mexican municipios was put out by Diego Valle, who manages the Mexican crimewatch and visualisation site https://elcri.men/en/ Spatial data was acquired from the GADM, the Database of Global Administrative Areas, using R's raster package.<br>
 The project was done entirely in R. I used Leaflet, a Javascript-based geospatial visualisation engine, after trying several other alternatives. <br>
-The vis is viewable at https://rawgit.com/mike-gusev/bordervis/master/vis.html
+The vis is viewable at https://mike-gusev.github.io/bordervis/
